@@ -12,4 +12,4 @@ Best model:Decision Tree (max_depth = 2) with accuracy 97.2% (F1 = 0.808).
 How to run
 1. Install the libraries: pip install -r requirements.txt
 2. Start Jupyter: jupyter notebook
-3. Open Assignment3.ipynb and click Kernel > Restart and Run All.
+3. Open Assignment 3.ipynb and click Kernel > Restart and Run All.
